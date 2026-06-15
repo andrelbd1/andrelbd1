@@ -61,7 +61,7 @@ Computer Science focused on Multimedia Systems.
 
 <p>
   <img src="https://img.shields.io/badge/Airbyte-4E2A8E?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=blue" alt="Airflow" />
   <img src="https://img.shields.io/badge/Celery-43A047?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
