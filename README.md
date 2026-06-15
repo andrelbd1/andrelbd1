@@ -62,7 +62,7 @@ Computer Science focused on Multimedia Systems.
 <p>
   <img src="https://img.shields.io/badge/Airbyte-4E2A8E?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Celery-29EE01?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Celery-43A047?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
@@ -89,16 +89,15 @@ Computer Science focused on Multimedia Systems.
 
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tornado-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tornado-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Analytics & Data Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Operational%20Analytics-1E88E5?style=for-the-badge" />
