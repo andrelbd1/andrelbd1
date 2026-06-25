@@ -137,5 +137,7 @@ Computer Science focused on Multimedia Systems.
 
 ## 🏆 Certifications
 
+- **Databricks Fundamentals** · Databricks · Jun 2026
+- **The Complete Hands-On Introduction to Apache Airflow 3** · Udemy · Jun 2026
 - **The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero** · Udemy · Feb 2025
 - **dbt Fundamentals** · dbt Labs · Feb 2025
