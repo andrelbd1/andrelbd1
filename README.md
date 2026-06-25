@@ -32,7 +32,7 @@ Computer Science focused on Multimedia Systems.
 
 - **Programming Languages**: Python, C++, Javascript
 - **Cloud & Infrastructure**: AWS (S3, SQS, Lambda, ECS, EKS, CloudWatch), GCP, Docker, Kubernetes
-- **Data Processing & Orchestration**: Airbyte, Airflow, Celery, dbt, Spark
+- **Data Processing & Orchestration**: Airbyte, Airflow, Celery, dbt, Spark, Databricks
 - **Data Architecture**: Data Lakes, Data Warehouses, Modern Data Stack, Batch Processing, Data Pipelines
 - **Databases**: BigQuery, MongoDB, MySQL, PostgreSQL, Redshift, Redis
 - **Backend Development**: REST APIs, Microservices, Tornado, FastAPI
@@ -65,6 +65,7 @@ Computer Science focused on Multimedia Systems.
   <img src="https://img.shields.io/badge/Celery-43A047?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-cc0000?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### Data Architecture
