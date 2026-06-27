@@ -10,7 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:andrelbd1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
+  <a href="mailto:andrelbd1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andrelbd1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="https://github.com/andrelbd1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/andrelbd1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"></a>&nbsp;&nbsp;
